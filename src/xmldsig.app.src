@@ -1,5 +1,5 @@
 {application, xmldsig, [ {description,  "xmldsig"}
-                       , {vsn,          git}
+                       , {vsn,          "git"}
                        , {registered,   []}
                        , {applications, [kernel, stdlib]}
                        ]}.
