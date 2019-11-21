@@ -1,7 +1,7 @@
 {application, xmldsig, [ {description,  "xmldsig"}
                        , {vsn,          "git"}
                        , {registered,   []}
-                       , {applications, [kernel, stdlib]}
+                       , {applications, [kernel, stdlib, ssh]}
                        , {env,[]}
                        , {modules, []}
                        ]}.
